@@ -28,7 +28,6 @@ border-radius: 10px;
 4. What is the css selector of the fourth element?
 ```
 The CSS selector of the fourth element is nth-child(n) selector. In this case, meaning the 6th div will have the color blue text.
-
 ```
 
 5. What is the code you use to keep the blue box within the purple?
